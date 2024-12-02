@@ -13,5 +13,5 @@ export const useFetchnpm = (url) =>{
         fetchData();
     },[url])
 
-    return {data}
+    return {data , url}
 }
