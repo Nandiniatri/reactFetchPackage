@@ -1,5 +1,5 @@
 {
-  "name": "nandureactfetchpackage",
+  "name": "nandufetchpackage",
   "version": "1.0.0",
   "description": "This is my fetch npm package. ",
   "main": "index.js",
