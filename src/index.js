@@ -1,3 +1,3 @@
-import { useFetch } from "./useFetch.jsx";
+import { useFetchnpm } from "./useFetch.jsx";
 
-export {useFetch};
+export {useFetchnpm};

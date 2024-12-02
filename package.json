@@ -2,7 +2,7 @@
   "name": "reactfetchpackage",
   "version": "1.0.0",
   "description": "This is my fetch npm package. ",
-  "main": "index.js",
+  "main": "react-package.cjs.js",
   "type": "module",
   "scripts": {
     "test": "jest",
